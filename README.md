@@ -87,8 +87,6 @@ Some insights from the analysis include:
 ---
 
 
----
-
 ## Skills Demonstrated
 
 - Data Cleaning
@@ -102,9 +100,6 @@ Some insights from the analysis include:
 ## Conclusion
 
 This project demonstrates how Python can be used for data analysis to extract meaningful insights from business data. It showcases fundamental data analyst skills such as data cleaning, visualization, and interpreting results.
-
----
-
 
 ---
 
